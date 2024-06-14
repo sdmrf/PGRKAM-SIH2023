@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd PGRKAM-App/PGRKAM && npm run android",
+    "backend": "cd PGRKAM-Backend && npm start",
+    "start": "concurrently \"npm run frontend\" \"npm run backend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253538465352",
+    "project_id": "pgr-kam",
+    "storage_bucket": "pgr-kam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253538465352:android:e5b3d2a8622383f2114a7d",
+        "android_client_info": {
+          "package_name": "com.pgrkam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253538465352-hp22q6054j5qs5endcrrgotmvp9r4nc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pgrkam",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "253538465352-shfd8ienlql9h2irh6co898j24p1a93q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE92_n26AtKBEshW36HqLXkvk3i3T3tM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253538465352-shfd8ienlql9h2irh6co898j24p1a93q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
